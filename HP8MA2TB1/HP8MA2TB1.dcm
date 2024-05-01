@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP HP8MA2TB1
+D 30V Nch+Pch Middle Power MOSFET
+K
+F https://fscdn.rohm.com/en/products/databook/datasheet/discrete/transistor/mosfet/hp8ma2tb1-e.pdf
+$ENDCMP
+#
+#End Doc Library

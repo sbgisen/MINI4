@@ -1,0 +1,7 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "HP8MA2TB1")(type "KiCad")(uri "${KIPRJMOD}/HP8MA2TB1/HP8MA2TB1.pretty")(options "")(descr ""))
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/mojaKniznica.pretty/Library.pretty")(options "")(descr ""))
+  (lib (name "mojaKniznica")(type "KiCad")(uri "${KIPRJMOD}/mojaKniznica.pretty")(options "")(descr ""))
+  (lib (name "kicad_subory")(type "KiCad")(uri "${KIPRJMOD}/kicad_subory.pretty")(options "")(descr ""))
+)
