@@ -4,4 +4,5 @@
   (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/mojaKniznica.pretty/Library.pretty")(options "")(descr ""))
   (lib (name "mojaKniznica")(type "KiCad")(uri "${KIPRJMOD}/mojaKniznica.pretty")(options "")(descr ""))
   (lib (name "kicad_subory")(type "KiCad")(uri "${KIPRJMOD}/kicad_subory.pretty")(options "")(descr ""))
+  (lib (name "MyLibrary")(type "KiCad")(uri "${KIPRJMOD}/MyLibrary.pretty")(options "")(descr ""))
 )
