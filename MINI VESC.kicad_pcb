@@ -36,7 +36,7 @@
 		(solder_mask_min_width 0.1)
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
-			(layerselection 0x00010fc_ffffffff)
+			(layerselection 0x00010f0_fffffff9)
 			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions yes)
@@ -21619,8 +21619,8 @@
 		(uuid "5e59cc93-e061-438c-a9dd-b45056cc4f65")
 	)
 	(gr_circle
-		(center 116.55 103)
-		(end 117.55 103)
+		(center 116.8 102.5)
+		(end 117.8 102.5)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -21650,8 +21650,8 @@
 		(uuid "b74a063b-a3b8-4247-9c0b-1ec6ff9cc86d")
 	)
 	(gr_circle
-		(center 95.9 103)
-		(end 96.9 103)
+		(center 95.65 102.5)
+		(end 96.65 102.5)
 		(stroke
 			(width 0.05)
 			(type default)
