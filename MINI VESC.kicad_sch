@@ -20525,7 +20525,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5m"
 			(at 90.17 87.63 90)
 			(effects
 				(font
@@ -20929,7 +20929,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5m"
 			(at 90.17 50.8 90)
 			(effects
 				(font
@@ -22234,7 +22234,7 @@
 				)
 			)
 		)
-		(property "Value" "R"
+		(property "Value" "5m"
 			(at 90.17 13.97 90)
 			(effects
 				(font
